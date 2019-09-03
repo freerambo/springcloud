@@ -8,6 +8,7 @@
         <module>eurekaclient</module>
         <module>ribbon</module>
         <module>feign</module>
+        <module>hystrix</module>
     </modules>
 
     <parent>
