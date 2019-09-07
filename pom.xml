@@ -9,6 +9,7 @@
         <module>ribbon</module>
         <module>feign</module>
         <module>hystrix</module>
+        <module>zuul</module>
     </modules>
 
     <parent>
